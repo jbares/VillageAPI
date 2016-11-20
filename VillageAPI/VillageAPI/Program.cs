@@ -35,7 +35,7 @@ namespace VillageAPI
 
                 count++;
 
-                System.Threading.Thread.Sleep(TimeSpan.FromSeconds(5));                
+                System.Threading.Thread.Sleep(TimeSpan.FromSeconds(60));                
             }
         }
 
