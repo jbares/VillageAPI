@@ -1,0 +1,10 @@
+C:\Users\jbares\Documents\GitHub\VillageAPI\VillageAPI\VillageAPI\bin\Debug\VillageAPI.exe.config
+C:\Users\jbares\Documents\GitHub\VillageAPI\VillageAPI\VillageAPI\bin\Debug\VillageAPI.exe
+C:\Users\jbares\Documents\GitHub\VillageAPI\VillageAPI\VillageAPI\bin\Debug\VillageAPI.pdb
+C:\Users\jbares\Documents\GitHub\VillageAPI\VillageAPI\VillageAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jbares\Documents\GitHub\VillageAPI\VillageAPI\VillageAPI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\jbares\Documents\GitHub\VillageAPI\VillageAPI\VillageAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jbares\Documents\GitHub\VillageAPI\VillageAPI\VillageAPI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\jbares\Documents\GitHub\VillageAPI\VillageAPI\VillageAPI\obj\Debug\VillageAPI.csprojResolveAssemblyReference.cache
+C:\Users\jbares\Documents\GitHub\VillageAPI\VillageAPI\VillageAPI\obj\Debug\VillageAPI.exe
+C:\Users\jbares\Documents\GitHub\VillageAPI\VillageAPI\VillageAPI\obj\Debug\VillageAPI.pdb
